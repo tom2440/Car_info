@@ -2,8 +2,9 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 
-description 'ESX info_car'
-version '1.0.4'
+description 'Système d’Infos Véhicules Proches'
+version '1.0.0'
+author 'tom2440'
 
 shared_scripts {
     'config.lua'
@@ -18,6 +19,6 @@ server_scripts {
 }
 
 dependencies {
-    'es_extended',   -- Dépendance pour ESX
-    'oxmysql'        -- Dépendance pour oxmysql
+    'es_extended',  
+    'oxmysql'       
 }
