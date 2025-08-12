@@ -46,5 +46,5 @@ Merci de respecter ce cadre pour que la communauté puisse continuer à en profi
 
 Ce script est 100% gratuit, je le développe pour le plaisir et pour la communauté.
 Si ça vous plaît, un petit café serait un super encouragement pour continuer !
-👉 PayPal : paypal.me/thomas244066
+[paypal.me/thomas244066](https://paypal.me/thomas244066)
 
